@@ -1,0 +1,36 @@
+{
+    "name": "Kanagawa",
+    "scheme": {
+        "background": "#1F1F28",
+        "black": "#16161D",
+        "blue": "#7E9CD8",
+        "brightBlack": "#727169",
+        "brightBlue": "#7FB4CA",
+        "brightCyan": "#7AA89F",
+        "brightGreen": "#98BB6C",
+        "brightPurple": "#938AA9",
+        "brightRed": "#E82424",
+        "brightWhite": "#DCD7BA",
+        "brightYellow": "#E6C384",
+        "cursorColor": "#DCD7BA",
+        "cyan": "#6A9589",
+        "foreground": "#DCD7BA",
+        "green": "#98BB6C",
+        "name": "Kanagawa",
+        "purple": "#957FB8",
+        "red": "#C34043",
+        "selectionBackground": "#2D4F67",
+        "white": "#C8C093",
+        "yellow": "#DCA561"
+    },
+    "background": "#1F1F28",
+    "cursorColor": "#DCD7BA",
+    "tab": {
+        "background": "#1F1F28FF",
+        "unfocusedBackground": "#16161DFF"
+    },
+    "tabRow": {
+        "background": "#16161DFF",
+        "unfocusedBackground": "#16161DFF"
+    }
+}

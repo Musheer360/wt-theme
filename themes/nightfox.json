@@ -1,0 +1,36 @@
+{
+    "name": "Nightfox",
+    "scheme": {
+        "background": "#192330",
+        "black": "#393B44",
+        "blue": "#719CD6",
+        "brightBlack": "#575860",
+        "brightBlue": "#86ABDC",
+        "brightCyan": "#7AD5D6",
+        "brightGreen": "#8EBAA4",
+        "brightPurple": "#BAA1E2",
+        "brightRed": "#D6616B",
+        "brightWhite": "#DFDFE0",
+        "brightYellow": "#E0C989",
+        "cursorColor": "#CDCECF",
+        "cyan": "#63CDCF",
+        "foreground": "#CDCECF",
+        "green": "#81B29A",
+        "name": "Nightfox",
+        "purple": "#9D79D6",
+        "red": "#C94F6D",
+        "selectionBackground": "#2B3B51",
+        "white": "#DFDFE0",
+        "yellow": "#DBC074"
+    },
+    "background": "#192330",
+    "cursorColor": "#CDCECF",
+    "tab": {
+        "background": "#192330FF",
+        "unfocusedBackground": "#131A24FF"
+    },
+    "tabRow": {
+        "background": "#131A24FF",
+        "unfocusedBackground": "#131A24FF"
+    }
+}

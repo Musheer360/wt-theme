@@ -1,0 +1,36 @@
+{
+    "name": "Oxocarbon",
+    "scheme": {
+        "background": "#161616",
+        "black": "#262626",
+        "blue": "#78A9FF",
+        "brightBlack": "#393939",
+        "brightBlue": "#78A9FF",
+        "brightCyan": "#33B1FF",
+        "brightGreen": "#42BE65",
+        "brightPurple": "#BE95FF",
+        "brightRed": "#EE5396",
+        "brightWhite": "#FFFFFF",
+        "brightYellow": "#FFFAB7",
+        "cursorColor": "#F2F4F8",
+        "cyan": "#33B1FF",
+        "foreground": "#F2F4F8",
+        "green": "#42BE65",
+        "name": "Oxocarbon",
+        "purple": "#BE95FF",
+        "red": "#EE5396",
+        "selectionBackground": "#353535",
+        "white": "#DDE1E6",
+        "yellow": "#FDDC69"
+    },
+    "background": "#161616",
+    "cursorColor": "#F2F4F8",
+    "tab": {
+        "background": "#161616FF",
+        "unfocusedBackground": "#0F0F0FFF"
+    },
+    "tabRow": {
+        "background": "#0F0F0FFF",
+        "unfocusedBackground": "#0F0F0FFF"
+    }
+}

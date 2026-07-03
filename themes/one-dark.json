@@ -1,0 +1,36 @@
+{
+    "name": "One Dark",
+    "scheme": {
+        "background": "#282C34",
+        "black": "#282C34",
+        "blue": "#61AFEF",
+        "brightBlack": "#5C6370",
+        "brightBlue": "#61AFEF",
+        "brightCyan": "#56B6C2",
+        "brightGreen": "#98C379",
+        "brightPurple": "#C678DD",
+        "brightRed": "#E06C75",
+        "brightWhite": "#DCDFE4",
+        "brightYellow": "#E5C07B",
+        "cursorColor": "#ABB2BF",
+        "cyan": "#56B6C2",
+        "foreground": "#ABB2BF",
+        "green": "#98C379",
+        "name": "One Dark",
+        "purple": "#C678DD",
+        "red": "#E06C75",
+        "selectionBackground": "#3E4452",
+        "white": "#ABB2BF",
+        "yellow": "#E5C07B"
+    },
+    "background": "#282C34",
+    "cursorColor": "#ABB2BF",
+    "tab": {
+        "background": "#282C34FF",
+        "unfocusedBackground": "#21252BFF"
+    },
+    "tabRow": {
+        "background": "#21252BFF",
+        "unfocusedBackground": "#21252BFF"
+    }
+}

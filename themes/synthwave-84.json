@@ -1,0 +1,36 @@
+{
+    "name": "Synthwave 84",
+    "scheme": {
+        "background": "#262335",
+        "black": "#1E1E2E",
+        "blue": "#36F9F6",
+        "brightBlack": "#848BBC",
+        "brightBlue": "#36F9F6",
+        "brightCyan": "#36F9F6",
+        "brightGreen": "#72F1B8",
+        "brightPurple": "#FF7EDB",
+        "brightRed": "#FE4450",
+        "brightWhite": "#FFFFFF",
+        "brightYellow": "#FEDE5D",
+        "cursorColor": "#FFFFFF",
+        "cyan": "#36F9F6",
+        "foreground": "#F0EFF1",
+        "green": "#72F1B8",
+        "name": "Synthwave 84",
+        "purple": "#FF7EDB",
+        "red": "#FE4450",
+        "selectionBackground": "#3B3558",
+        "white": "#F0EFF1",
+        "yellow": "#FEDE5D"
+    },
+    "background": "#262335",
+    "cursorColor": "#FFFFFF",
+    "tab": {
+        "background": "#262335FF",
+        "unfocusedBackground": "#1E1B2CFF"
+    },
+    "tabRow": {
+        "background": "#1E1B2CFF",
+        "unfocusedBackground": "#1E1B2CFF"
+    }
+}
